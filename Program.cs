@@ -11,7 +11,7 @@ namespace ConsoleApp1
             numberSort1.Add(3);
             numberSort1.Add(10);
             numberSort1.Add(41);
-            numberSort1.Add(32);
+            numberSort1.Add(22);
             numberSort1.Add(27);
             numberSort1.Add(25);
             numberSort1.Add(21);
